@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chiefcipher
+- 👋 Hello and welcome 
 - 👀 I’m a frontend developer 
 - 🌱 I’m currently working to ensure I master React 
 - 💞️ I’m looking to collaborate on projects that require my frontend skills
