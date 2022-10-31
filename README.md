@@ -1,7 +1,5 @@
 - 👋 Hello and welcome 
-- 👀 I’m a frontend developer 
-- 🌱 I’m currently working to ensure I master React 
-- 💞️ I’m looking to collaborate on projects that require my frontend skills
-- 📫 Reach me on samuelyakubu737@gmail.com or +2349075859285 
-
-
+- 👀 I’m a junior full-stack developer 
+- 🌱 I’m currently building with MERN technologies  
+- 💞️ I'm actively looking for a job & open to collaborating on project(s).
+- 📫 Reach me on devwithsammy@gmail.com or 2349075859285 
