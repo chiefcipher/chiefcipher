@@ -1,5 +1,4 @@
 - 👋 Hi, I'm Cipher
-- 👀 Fullstack developer 
-- 🌱 I’m currently building with MERN technologies  
-- 💞️ I'm actively looking for a job & open to collaborating on project(s).
+- 👀 I am a full-stack developer who is actively exploring the world of AI, open source, and problem-solving. 
+- 🌱 My stack is majorly with MERN technologies (including Nestjs) but also includes C# and .Net 
 - 📫 Reach me on https://twitter.com/chief_cipher | https://chiefcipher.codes | devwithsammy@gmail.com | 2349075859285 
