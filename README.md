@@ -35,6 +35,8 @@
 - 🔹 [**Certiva Backend**](https://github.com/chiefcipher/certiva_backend) – Smart certificate issuing and verification system (NestJS + TypeScript)
 - 🔹 [**CraftNexus**](https://github.com/chiefcipher/CraftNexus) – StarkNet NFT marketplace connecting artisans to global collectors
 - 🔹 [**CrowdChain**](https://github.com/chiefcipher/crowdchain) – Decentralized crowdfunding using blockchain
+- 🔹 [**AbidoShaker.xyz**](https://abidoshaker.xyz/) – An annonymous web messaging platform
+- 🔹 [**URL Redirector**](https://github.com/chiefcipher/url-redirector-extension) – A URL Redirector extension for chrome
 
 ---
 
